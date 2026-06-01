@@ -43,9 +43,9 @@
   "devDependencies": {
     "@tsconfig/node22": "^22.0.5",
     "@types/mocha": "^10.0.10",
-    "@types/node": "^22.19.17",
+    "@types/node": "^22.19.19",
     "@types/sax": "^1.2.7",
-    "@types/vscode": "^1.100.0",
+    "@types/vscode": "^1.120.0",
     "@vscode/test-cli": "^0.0.12",
     "@vscode/test-electron": "^2.5.2",
     "@vscode/vsce": "^3.9.1",
